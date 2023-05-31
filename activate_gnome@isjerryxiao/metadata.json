@@ -1,8 +1,8 @@
 {
-    "name": "Activate GNOME",
-    "description": "Shows Activate GNOME watermark on your screen. Migrating from Windows has never been easier!",
-    "uuid": "activate_gnome@isjerryxiao",
-    "settings-schema": "org.gnome.shell.extensions.activate_gnome",
+    "name": "GUSD WAtermark",
+    "description": "Shows GUSD watermark on your screen.",
+    "uuid": "gusd_watermark@oxmc",
+    "settings-schema": "org.gnome.shell.extensions.gusd_watermark",
     "shell-version": [
         "40",
         "41",
@@ -11,5 +11,5 @@
         "44"
     ],
     "version": 9,
-    "url": "https://github.com/isjerryxiao/gnome-shell-extension-activate-gnome"
+    "url": "https://github.com/HooverHigh/gusd-watermark-gnome-shell"
 }
