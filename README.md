@@ -1,7 +1,7 @@
 # GUSD Watermark
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](./LICENSE)  
 
-A gnome-shell extension to show 'GUSD' watermark. Migrating from Windows has never been easier!
+A gnome-shell extension to show 'GUSD' watermark.
 
 ## Installation
 ### From git
