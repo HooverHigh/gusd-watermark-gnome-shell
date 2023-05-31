@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<schemalist gettext-domain="activate_gnome">
-  <schema id="org.gnome.shell.extensions.activate_gnome" path="/org/gnome/shell/extensions/activate_gnome/">
+<schemalist gettext-domain="gusd_watermark">
+  <schema id="org.gnome.shell.extensions.gusd_watermark" path="/org/gnome/shell/extensions/gusd_watermark/">
     <!-- See also: https://developer.gnome.org/glib/stable/gvariant-format-strings.html -->
     <key name="text-l1" type="s">
-      <default>'Activate GNOME'</default>
+      <default>'GUSD'</default>
       <summary>Text to display on line 1</summary>
     </key>
     <key name="text-l2" type="s">
-      <default>'Go to Settings to activate GNOME.'</default>
+      <default>'This device is property of GUSD'</default>
       <summary>Text to display on line 2</summary>
     </key>
     <key name="l2-vertical" type="d">
