@@ -1,5 +1,5 @@
 {
-    "name": "GUSD WAtermark",
+    "name": "GUSD Watermark",
     "description": "Shows GUSD watermark on your screen.",
     "uuid": "gusd_watermark@oxmc",
     "settings-schema": "org.gnome.shell.extensions.gusd_watermark",
